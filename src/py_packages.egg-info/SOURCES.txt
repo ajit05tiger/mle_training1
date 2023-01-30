@@ -1,0 +1,14 @@
+LICENSE.txt
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/py_packages/__init__.py
+src/py_packages/ingest_data.py
+src/py_packages/nonstandardcode.py
+src/py_packages/score.py
+src/py_packages/train.py
+src/py_packages.egg-info/PKG-INFO
+src/py_packages.egg-info/SOURCES.txt
+src/py_packages.egg-info/dependency_links.txt
+src/py_packages.egg-info/top_level.txt

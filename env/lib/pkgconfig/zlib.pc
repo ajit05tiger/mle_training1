@@ -1,0 +1,13 @@
+prefix=/home/ajit05tiger/mle_training/env
+exec_prefix=/home/ajit05tiger/mle_training/env
+libdir=/home/ajit05tiger/mle_training/env/lib
+sharedlibdir=/home/ajit05tiger/mle_training/env/lib
+includedir=/home/ajit05tiger/mle_training/env/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
