@@ -2,6 +2,8 @@ import argparse
 import os
 import tarfile
 
+import mlflow
+import mlflow.sklearn
 import numpy as np
 import pandas as pd
 from six.moves import urllib
