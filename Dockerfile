@@ -1,6 +1,6 @@
 FROM continuumio/anaconda3
 
-WORKDIR /mle-training
+WORKDIR /mle_training
 
 COPY . .
 
